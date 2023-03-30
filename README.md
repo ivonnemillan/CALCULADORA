@@ -1,3 +1,3 @@
 # CALCULADORA
-https://cdn.computerhoy.com/sites/navi.axelspringer.es/public/media/image/2019/06/python.jpg?tf=3840x
+![python (1)](https://user-images.githubusercontent.com/129324754/228925725-72f815aa-3c72-4a80-ba76-c242fb867e81.png)
 Es un programa realizado en Python para realizar diferentes operaciones aritméticas
